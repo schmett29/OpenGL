@@ -1,0 +1,14 @@
+Author: David Schmetterling
+
+Program functionalities:
+
+1) Check the rotate box to rotate the figure
+	2) if the rotate box is checked, click anywhere on the canvase to reverse the rotation
+3) Pressing 'r' will change the color to red
+4) Pressing 'b' will change the color to blue
+5) Pressing 'g' will change the color to green
+6) Pressing '+' will increase the number of triangles (you need to hold shift)
+7) Pressing '-' will decrease the number of triangles
+8) Pressing 'k' will increase the size of the polygon by increasing the radius
+9) Pressing 'm' will decrease the size of the polygon by decreasing the radius
+10) Dragging on the speed slider will increase the speed of rotation when rotation is enabled
